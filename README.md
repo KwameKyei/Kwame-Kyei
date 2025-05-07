@@ -1,6 +1,6 @@
 # Kwame-Kyei
 Professional Profile
-# Hi, I&#39;i'm Kwame Kyei! ��
+# Hi, I&#39;m Kwame Kyei! ��
 ### �� About Me
 🛡️ Cybersecurity & SOC Analyst | Passionate about defending digital frontiers
 📍 Focused on threat detection, incident response, and security operations
